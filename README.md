@@ -1,4 +1,4 @@
-<img width="931" height="732" alt="diagrama de flujo" src="https://github.com/user-attachments/assets/569336dd-7148-4045-a656-e715408eaf6a" />
+
 # Documentacion_entornos
 ...
 ## 1. Fundamentos del sistema
@@ -24,4 +24,4 @@ Nada por aquí
 
 No hagas nada por aquí
 
-<img width="300" height="300" alt="diagrama de flujo" src="https://github.com/user-attachments/assets/569336dd-7148-4045-a656-e715408eaf6a" />
+<img width="500" height="500" alt="diagrama de flujo" src="https://github.com/user-attachments/assets/569336dd-7148-4045-a656-e715408eaf6a" />
