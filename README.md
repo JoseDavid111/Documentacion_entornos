@@ -23,3 +23,5 @@ Nada por aquí
 ## 7. Los diccionarios de datos
 
 No hagas nada por aquí
+
+<img width="300" height="300" alt="diagrama de flujo" src="https://github.com/user-attachments/assets/569336dd-7148-4045-a656-e715408eaf6a" />
